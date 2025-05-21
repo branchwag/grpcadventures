@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2dNGrWCKJBw=",
+  "success": true,
+  "projectFilePath": "/home/whiterabbit/CodingStuff/DotNettin/GRPCadventures/GrpcClient/GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "/home/whiterabbit/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
